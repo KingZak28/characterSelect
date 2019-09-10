@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Anime Font';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Anime Font'), url('one piece font.ttf') format('truetype');
+
+}
+
+h1{
+  font-family: "Anime Font";
+  color: white;
+  font-weight: 200;
+}
